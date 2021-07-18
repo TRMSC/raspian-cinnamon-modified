@@ -6,6 +6,8 @@ Otherwise you can install RaspianOS with an also costumizable mate-desktop: http
 
 There is plan for making a theme or an image in this repository. Till then you can use the description in this file. 
 
+![htm-mode](https://raw.githubusercontent.com/TRMSC/raspian-cinnamon-modified/main/thumbnail.png)
+
 The wallpaper on the image in this repository is from https://wallpaper.dog/dark-linux-mint-wallpapers. Got inspirations for this article from https://mike632t.wordpress.com/2015/08/10/installing-cinnamon-jessie/.
 
 
